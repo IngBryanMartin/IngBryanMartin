@@ -57,8 +57,6 @@ In addition, I have advanced skills in programming, data analysis and database m
 
 <a href="https://github.com/IngBryanMartin" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngBryanMartin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![Snake animation](https://github.com/IngBryanMartin/IngBryanMartin/blob/output/github-contribution-grid-snake.svg)
-
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
