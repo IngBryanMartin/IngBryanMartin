@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  I'M Bryan Martin Quispe Lavalle 👋
+  I'm Bryan Martin Quispe Lavalle 👋
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-<h2> 💻 &nbsp;A little bit about me</h2>
+<h2 align="center"> 💻 &nbsp;A little bit about me</h2>
 <p align="center">
 I'm a systems engineer and computer enthusiast who is passionate about technology and constantly seeking challenges in order to continue learning and improving my skills to tackle challenging projects.
 With strong analytical, problem-solving, and communication skills, I can effectively collaborate with clients and team members in different languages, including Spanish and English.
@@ -30,7 +30,7 @@ In addition, I have advanced skills in programming, data analysis and database m
 
 ---
   
-<h2> <img src="https://media.giphy.com/media/7JA8CIHsr0IfYPZpOE/giphy.gif" width="50"> &nbsp;Languages and Tools</h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/7JA8CIHsr0IfYPZpOE/giphy.gif" width="50"> &nbsp;Languages and Tools</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
@@ -51,7 +51,7 @@ In addition, I have advanced skills in programming, data analysis and database m
 
 ---
 
-<h2> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?w=1024" width="50"> &nbsp;My GitHub Stats</h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?w=1024" width="50"> &nbsp;My GitHub Stats</h2>
 
 ![IngBryanMartin GitHub stats](https://github-readme-stats.vercel.app/api?username=IngBryanMartin&show_icons=true&theme=transparent)
 
