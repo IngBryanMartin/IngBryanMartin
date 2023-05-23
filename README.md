@@ -23,7 +23,7 @@
 
 <h2 align="center"> 💻 &nbsp;A little bit about me</h2>
 <p align="center">
-I'm a systems engineer and computer enthusiast who is passionate about technology and constantly seeking challenges in order to continue learning and improving my skills to tackle challenging projects.
+I'm a systems and computer engineer enthusiast who is passionate about technology and constantly seeking challenges in order to continue learning and improving my skills to tackle challenging projects.
 With strong analytical, problem-solving, and communication skills, I can effectively collaborate with clients and team members in different languages, including Spanish and English.
 In addition, I have advanced skills in programming, data analysis and database management. I'm passionate about finding innovative ways to improve the efficiency and effectiveness of IT systems and I'am excited to apply my skills in a company that values innovation and operational excellence.
 </p>
